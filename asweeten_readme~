@@ -1,0 +1,13 @@
+Alexander Sweeten
+301265554
+
+Welcome to Fruit Tetris!
+Hit q or esc to quit
+Hit r to restart
+Hit a to accelerate the falling tile speed
+Hit d to deccelerate
+
+Roughly 1 in 10 runs result in a segmentation fault (core dump). I was unable to find a pattern, and therefore couldn't bugfix this problem. 
+
+
+
